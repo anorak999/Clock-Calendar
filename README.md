@@ -66,7 +66,7 @@ Tkinter (included with Python)
 Installation
 bash
 Copy
-git clone https://github.com/yourusername/ios-clock-calendar.git
+git clone https://github.com/anorak999/ios-clock-calendar.git
 cd ios-clock-calendar
 python clock.py
 🎛️ User Interaction Guide
